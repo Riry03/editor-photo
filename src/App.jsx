@@ -22,11 +22,6 @@ function ImageEditor() {
     [-1, 5, -1],
     [0, -1, 0],
   ];
-  const embossKernel = [
-    [-2, -1, 0],
-    [-1, 1, 1],
-    [0, 1, 2],
-  ];
 
 
 
