@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/editor-photo/', // Ganti dengan nama repositori GitHub Anda
+  base: '/editor-photo/', // Nama repositori GitHub Anda
 });
